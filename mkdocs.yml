@@ -1,8 +1,10 @@
 site_name: PHP OOP
-site_description: Learn Object-Oriented Programming with PHP
-site_author: PHP OOP
+site_description: Playground for Learning Object-Oriented Programming with PHP
+site_author: FRY
 
-copyright: Copyright &copy; 2026 PHP OOP
+site_url: https://FRanggaY.github.io/php-playground/
+
+copyright: Copyright &copy; 2026 FRY
 
 docs_dir: docs
 

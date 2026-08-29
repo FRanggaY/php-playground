@@ -63,3 +63,15 @@ php examples/10-full-practice-mini-bank/solution.php
 ## Documentation 
 
 when got updated go to index.md then update variable Updated manually.
+
+
+## Deploy
+
+Enable GitHub Pages
+
+```bash
+Settings
+  → Pages
+      → Build and deployment
+          → Source: GitHub Actions
+```
