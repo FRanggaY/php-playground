@@ -12,12 +12,6 @@ Kursus ini membahas konsep-konsep OOP dalam PHP, mulai dari dasar hingga perlaha
 - Pewarisan (Inheritance)
 - Polimorfisme (Polymorphism)
 - Abstraksi (Abstraction)
-- Antarmuka dan trait (Interfaces and traits)
-- Namespace dan autoloader (Namespaces and autoloading)
-- Penyuntikan dependensi (Dependency injection)
-- Prinsip SOLID (SOLID principles)
-- Pola desain (Design patterns)
-- Setiap topik mencakup penjelasan, contoh PHP, dan latihan praktik.
 
 ## Tujuan
 

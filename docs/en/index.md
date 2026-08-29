@@ -12,11 +12,6 @@ This course covers OOP concepts in PHP, starting from the basics and gradually m
 - Inheritance
 - Polymorphism
 - Abstraction
-- Interfaces and traits
-- Namespaces and autoloading
-- Dependency injection
-- SOLID principles
-- Design patterns
 
 Each topic includes **explanations**, **PHP examples**, and **practice exercises**.
 

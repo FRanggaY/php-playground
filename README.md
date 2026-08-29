@@ -1,3 +1,20 @@
+# PHP Playground
+
+This repository replaces the previous PHP OOP learning repository.
+
+The previous repository focused on PHP OOP topics such as:
+
+- Classes and objects
+- Properties and methods
+- Constructors
+- Object types
+- Inheritance
+- Visibility
+
+The new repository is designed to be easier to read, learn, and maintain.
+The lessons are written in Markdown and can be published as web documentation, while PHP examples are kept separately for practice.
+You can read the lessons directly as documentation without needing to clone the repository or install the project just to study the material.
+
 ## Requirements for Testing
 
 - php
