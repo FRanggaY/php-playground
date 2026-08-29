@@ -2,7 +2,7 @@
 
 Welcome to the *PHP Object-Oriented Programming (OOP)* course.
 
-This course covers OOP concepts in PHP, starting from the basics and gradually moving toward practical software design.
+This course covers OOP concepts in PHP.
 
 ## What You Will Learn
 - Classes and objects
@@ -12,8 +12,6 @@ This course covers OOP concepts in PHP, starting from the basics and gradually m
 - Inheritance
 - Polymorphism
 - Abstraction
-
-Each topic includes **explanations**, **PHP examples**, and **practice exercises**.
 
 ## Goal
 

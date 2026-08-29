@@ -1,8 +1,8 @@
 # Pengantar
 
-Selamat datang di kursus *Pemrograman Berorientasi Objek (Object-Oriented Programming/OOP) PHP*.
+Selamat datang di Pembelajaran *Pemrograman Berorientasi Objek (Object-Oriented Programming/OOP) PHP*.
 
-Kursus ini membahas konsep-konsep OOP dalam PHP, mulai dari dasar hingga perlahan beralih ke desain perangkat lunak praktis.
+Pembelajaran ini membahas konsep-konsep OOP dalam PHP.
 
 ## Apa yang Akan Anda Pelajari
 - Kelas dan objek (Classes and objects)
@@ -15,7 +15,7 @@ Kursus ini membahas konsep-konsep OOP dalam PHP, mulai dari dasar hingga perlaha
 
 ## Tujuan
 
-Di akhir kursus ini, Anda diharapkan mampu memahami dan membangun aplikasi PHP menggunakan Pemrograman Berorientasi Objek.
+Di akhir pembelajaran ini, Anda diharapkan mampu memahami dan membangun aplikasi PHP menggunakan Pemrograman Berorientasi Objek.
 
 **Created:** 2026-08-29  
 **Updated:** 2026-08-29
