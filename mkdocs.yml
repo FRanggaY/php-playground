@@ -1,0 +1,124 @@
+site_name: PHP OOP
+site_description: Learn Object-Oriented Programming with PHP
+site_author: PHP OOP
+
+copyright: Copyright &copy; 2026 PHP OOP
+
+docs_dir: docs
+
+theme:
+  name: material
+  language: en
+
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+
+    - search.suggest
+    - search.highlight
+    - search.share
+
+    - content.code.copy
+    - content.code.select
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+
+  - toc:
+      permalink: true
+
+  - pymdownx.arithmatex:
+      generic: true
+
+  - pymdownx.betterem:
+      smart_enable: all
+
+  - pymdownx.caret
+  - pymdownx.details
+
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+
+  - pymdownx.snippets:
+      base_path: .
+
+  - pymdownx.superfences
+
+  - pymdownx.tabbed:
+      alternate_style: true
+
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+  - pymdownx.tilde
+
+plugins:
+  - search:
+      lang:
+        - en
+        - id
+
+  - i18n:
+      docs_structure: folder
+
+      languages:
+        - locale: en
+          name: English
+          default: true
+          build: true
+
+        - locale: id
+          name: Indonesia
+          build: true
+
+nav:
+  - Home: index.md
+
+  - Prerequisites: 01-prerequisites.md
+
+  - OOP Fundamentals:
+      - Fundamentals: 02-oop-fundamentals.md
+      - Properties and Methods: 03-properties-and-methods.md
+      - Object Types: 04-object-types.md
+      - Constructor: 05-constructor.md
+      - Visibility and Encapsulation: 06-visibility-and-encapsulation.md
+      - Inheritance: 07-inheritance.md
+      - Polymorphism: 08-polymorphism.md
+      - Abstraction: 09-abstraction.md
+  
+  - Practices: 
+      - Mini Bank: 
+        - Practice: 10-full-practice-mini-bank.md
+        - Solution: 10.5-full-practice-mini-bank-solution.md
